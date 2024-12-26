@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "C0048582-1D41-477D-A4B3-52E090884980",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:POCFirebaseTestLab.xcodeproj",
+      "identifier" : "593E00162D155021009E5834",
+      "name" : "POCFirebaseTestLab"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:POCFirebaseTestLab.xcodeproj",
+        "identifier" : "593E00262D155022009E5834",
+        "name" : "POCFirebaseTestLabTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:POCFirebaseTestLab.xcodeproj",
+        "identifier" : "593E00302D155022009E5834",
+        "name" : "POCFirebaseTestLabUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
